@@ -47,6 +47,7 @@ trueforme/tochka-neomarket          URFU2026-NeoMarket/neomarket-protocols
          │                                          │
          │     автовалидация Spectral               │
          │     ревью координатора синдиката         │
+         │     пишем @ulyanayou                     │
          │                                          │
          │  5. merge ◄──────────────────────────────│
 ```
